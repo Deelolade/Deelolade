@@ -16,6 +16,6 @@ Tools & Platforms: Git, GitHub, Vite, VS Code
 ## 📫 Let's Connect
 - 📧 [Email Me](mailto:oluwanisholahabeeb13@icloud.com)  
 - 💼 [See my Portfolio](https://deelolade-portfolio.vercel.app/)  
-- X [Follow me on X](https://X.com/deelolade)
-- [Follow me on LinkedIn](https://www.linkedin.com/in/deelolade)
+- :X: [Follow me on X](https://X.com/deelolade)
+- :Linkedin: [Follow me on LinkedIn](https://www.linkedin.com/in/deelolade)
 
