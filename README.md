@@ -1,20 +1,21 @@
-## Hi there 👋
+## Hello 👋 I am Deelolade
 
 ## 🚀 About Me
-I'm a MERN Stack Developer who enjoys bringing ideas to life with MongoDB, Express.js, React, and Node.js. Right now, I’m building a dating app for my portfolio and having a lot of fun with it! I’m always curious and love picking up new skills along the way
+I’m a MERN Stack Developer with a passion for crafting interactive and user-friendly web applications. I thrive on turning ideas into reality using MongoDB, Express.js, React, and Node.js. My coding journey is driven by curiosity, creativity, and a constant desire to grow.
 
- Technologies & Tools
-![React](https://img.shields.io/badge/-React-61DAFB?style=flat&logo=react&logoColor=white)
-![Node.js](https://img.shields.io/badge/-Node.js-339933?style=flat&logo=node.js&logoColor=white)
-![MongoDB](https://img.shields.io/badge/-MongoDB-47A248?style=flat&logo=mongodb&logoColor=white)
-![Express](https://img.shields.io/badge/-Express-000000?style=flat&logo=express&logoColor=white)
+##🚀 **My Tech Toolbox**
+Frontend: Html, Css, Bootstrap, React, Tailwind CSS, JavaScript (ES6+)
+Backend: Node.js, Express.js
+Database: MongoDB, Mongoose
+Tools & Platforms: Git, GitHub, Vite, VS Code
 
 ## 📚 What I’m Currently Working On
-- 💖 Building a **dating app** using React, Tailwind CSS, and the RandomUser.me API.  
+- 💖 Building **FindMyDate** dating app using React, Tailwind CSS, and the RandomUser.me API.  
 - 🎉 Exploring **TypeScript** to level up my development skills.  
 
-## 📫 How to Reach Me
+## 📫 Let's Connect
 - 📧 [Email Me](mailto:oluwanisholahabeeb13@icloud.com)  
-- 💼 [My Portfolio](https://deelolade-portfolio.vercel.app/)  
-- 🐦 [Follow me on X](https://X.com/deelolade)  
+- 💼 [See my Portfolio](https://deelolade-portfolio.vercel.app/)  
+- X [Follow me on X](https://X.com/deelolade)
+- [Follow me on LinkedIn](https://www.linkedin.com/in/deelolade)
 
