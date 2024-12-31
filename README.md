@@ -18,4 +18,3 @@ Tools & Platforms: Git, GitHub, Vite, VS Code
 - 💼 [See my Portfolio](https://deelolade-portfolio.vercel.app/)  
 - :X: [Follow me on X](https://X.com/deelolade)
 -  [Follow me on LinkedIn](https://www.linkedin.com/in/deelolade)
-
