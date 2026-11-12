@@ -1,8 +1,9 @@
+
 <h1 align="center">Hi, I'm Habeeb (Deelolade) 👋</h1>
 
 <p align="center">
-  Full-Stack Developer building web applications, SaaS products
-  and backend systems.
+  Full-Stack Developer building SaaS products,
+  web applications and backend systems.
 </p>
 
 <p align="center">
@@ -19,54 +20,57 @@ I'm a Full-Stack Developer based in Lagos, Nigeria,
 focused on building practical, reliable and maintainable
 software products.
 
-I work primarily with TypeScript across the frontend
-and backend, building web applications, APIs and
+I primarily work with TypeScript across the frontend
+and backend, developing web applications, APIs and
 database-driven systems.
 
-I enjoy solving engineering problems, exploring
-software architecture and turning ideas into working
-products.
+I enjoy solving engineering problems and turning ideas
+into functional software.
 
 ### Tech Stack
+
+**Languages**
+- TypeScript
+- JavaScript
+- Python
 
 **Frontend**
 - React
 - Next.js
 - Vite
-- TypeScript
 - Tailwind CSS
 
 **Backend**
 - Node.js
 - Fastify
 - Express
+- FastAPI
 - REST APIs
 
-**Database & ORM**
+**Databases & ORM**
 - PostgreSQL
 - MongoDB
 - Prisma
 - Supabase
 
-**Other**
-- Python
-- FastAPI
+**Tools & Platforms**
 - Git
 - Docker
 - Vercel
 
-### What I'm Interested In
+### What I Build
 
-- Building SaaS products and web applications.
-- Backend engineering and API development.
-- Software architecture and system design.
-- Developer tools and open-source projects.
+- SaaS products and MVPs
+- Full-stack web applications
+- Backend services and REST APIs
+- Database-driven platforms
+- Third-party API integrations
 
 ### Let's Connect
 
-Have a product to build, an existing application
-to improve, or an interesting engineering problem?
+Have a product to build or an existing application
+that needs improvement?
 
 I'm open to freelance and contract opportunities.
 
-**[Get in touch](https://deelolade.com.ng)**
+**[Get in touch]([https://v3-deelolade.vercel.app])**
