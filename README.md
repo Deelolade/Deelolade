@@ -7,7 +7,7 @@
 </p>
 
 <p align="center">
-  <a href="https://deelolade.com.ng">Portfolio</a> ·
+  <a href="https://v3-deelolade.vercel.app">Portfolio</a> ·
   <a href="https://www.linkedin.com/in/deelolade/">LinkedIn</a> ·
   <a href="https://x.com/DeeLolade">X</a>
 </p>
